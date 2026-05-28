@@ -1,0 +1,63 @@
+Открой браузер|openApp
+Запусти блокнот|openApp
+Открой калькулятор|openApp
+Запусти приложение|openApp
+Открой программу|openApp
+
+Увеличь яркость|brightness
+Уменьши яркость|brightness
+Сделай экран ярче|brightness
+Сделай экран темнее|brightness
+Настрой яркость|brightness
+Повысить яркость|brightness
+Понизить яркость|brightness
+
+Уменьши громкость|volume
+Убавь звук|volume
+Сделай потише|volume
+Отключи звук|volume
+Включи звук|volume
+Сделай погромче|volume
+Увеличь громкость|volume
+
+Реши пример два плюс два|solve_math
+Сколько будет пять умножить на шесть|solve_math
+Рассчитай десять минус три|solve_math
+Найди корень из девяти|solve_math
+Сколько будет семь плюс восемь|solve_math
+
+Который час|get_time
+Покажи мне время|get_time
+Скажи текущее время|get_time
+Сколько сейчас времени|get_time
+Какое сейчас время|get_time
+
+Включи автокликер|start_autoclicker
+Запусти автокликер|start_autoclicker
+Начни автокликер|start_autoclicker
+
+Выключи компьютер|shutdown
+Отключи компьютер|shutdown
+Выключи ноутбук|shutdown
+Выключи систему|shutdown
+
+Сделай скриншот|screenshot
+Сделай снимок экрана|screenshot
+Сними экран|screenshot
+
+Запиши звук|record_audio
+Начни запись аудио|record_audio
+Начни запись звука|record_audio
+Записывай звук|record_audio
+
+Эээ|noise
+Ля-ля-ля|noise
+Бла-бла-бла|noise
+Тест тест тест|noise
+Шумы и звуки|noise
+Тра-ля-ля|noise
+Хм|noise
+Ааааа|noise
+Неразборчивое бормотание|noise
+Громкие шумы|noise
+Просто звуки|noise
