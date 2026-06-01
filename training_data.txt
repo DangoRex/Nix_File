@@ -3,6 +3,7 @@
 Открой калькулятор|openApp
 Запусти приложение|openApp
 Открой программу|openApp
+Открой gimp|openApp
 Увеличь яркость|brightness
 Уменьши яркость|brightness
 Сделай экран ярче|brightness
