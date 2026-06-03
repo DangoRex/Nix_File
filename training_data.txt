@@ -68,3 +68,5 @@
 Выдели текст с области|take_screen_text
 Текст с экрана|take_screen_text
 Текст скриншота|take_screen_text
+перевод экрана|translate_screen
+переведи скин|translate_screen
