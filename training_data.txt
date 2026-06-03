@@ -35,11 +35,9 @@
 Отключи компьютер|shutdown
 Выключи ноутбук|shutdown
 Выключи систему|shutdown
-Выключи комп|shutdown
-Перезагрузи комп|reboot
-Перезагрузи компьютер|reboot
-Перезагрузи ноутбук|reboot
-Перезагрузи систему|reboot
+перезагрузи компьютер|reboot
+перезагрузи ноутбук|reboot
+перезагрузи систему|reboot
 Сделай скриншот|screenshot
 Сделай снимок экрана|screenshot
 Сними экран|screenshot
@@ -59,4 +57,14 @@
 Громкие шумы|noise
 Просто звуки|noise
 звук на 40|volume
-Перезагрузка компьютера|reboot
+перезагрузка компьютера|reboot
+переведи текст|translate
+Переведи|translate
+Переведи текст с экрана|translate_screen
+Переведи экран|translate_screen
+Переведи скриншот|translate_screen
+Выдели текст с экрана|take_screen_text
+Получи текст с экрана|take_screen_text
+Выдели текст с области|take_screen_text
+Текст с экрана|take_screen_text
+Текст скриншота|take_screen_text
